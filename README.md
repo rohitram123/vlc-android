@@ -1,4 +1,4 @@
-# VLC for Android
+# VLC for Android made by ramu
 
 This is the official **Android** port of [VLC](https://videolan.org/vlc/).
 
